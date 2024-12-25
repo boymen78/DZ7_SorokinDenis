@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "6619",
+      "status": false,
+      "title": "Выучить React"
+    },
+    {
+      "id": "005f",
+      "status": false,
+      "title": "Выучить Html"
+    },
+    {
+      "id": "c9ae",
+      "status": false,
+      "title": "Выучить Css"
+    }
+  ]
+}
